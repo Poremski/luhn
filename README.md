@@ -38,7 +38,7 @@ at your option.
 
 ## Contribution
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Aache-20 license, shall be dual licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-20 license, shall be dual licensed as above, without any additional terms or conditions.
 
 [1]: https://img.shields.io/crates/v/luhncalc.svg?style=flat-square
 [2]: https://crates.io/crates/luhncalc
