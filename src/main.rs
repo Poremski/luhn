@@ -2,11 +2,8 @@ use structopt::StructOpt;
 
 #[derive(StructOpt)]
 struct Opts {
-    #[structopt(
-        help = "A digit sequence",
-        parse(from_str)
-    )]
-    digit_sequence: String
+    #[structopt(help = "A digit sequence", parse(from_str))]
+    digit_sequence: String,
 }
 
 fn main() {
